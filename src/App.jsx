@@ -3,7 +3,6 @@ import Navbar from './components/Navbar';
 import Manager from './components/Manager';
 import Footer from './components/Footer';
 import Login from './components/Login';
-
 function App() {
   return (
     <Router>
